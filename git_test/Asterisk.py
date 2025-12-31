@@ -1,0 +1,1 @@
+print("Asterisk-_")
